@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jukyung94
-- 👀 I’m interested in JS, Vue, JAVA
-- 🌱 I’m currently learning JAVA, Vue, React-Native, Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JS, Spring, JAVA
+- 🌱 I’m currently learning JAVA, React, React-Native, Flutter
 - 📫 How to reach me ...
 
 <!---
