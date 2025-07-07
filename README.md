@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React, React-Native, Flutter
 - 📫 How to reach me ...
 - my email is jukyung.dev@gmail.com
+- Currently building personal blog via vercel http://dev-blog-omega-nine.vercel.app/
 
 <!---
 Jukyung94/Jukyung94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
